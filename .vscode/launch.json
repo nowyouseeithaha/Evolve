@@ -1,0 +1,27 @@
+Imre{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+
+
+        !
+
+        Stars
+
+        Messiah
+        Hahahahahhaha
+        We win
+
+        {
+            "name": "BrightScript Debug: Launch",
+            "type": "brightscript",
+            "request": "launch",
+            "host": "${promptForHost}",
+            "password": "${promptForPassword}",
+            "rootDir": "${workspaceFolder}"
+        }
+    ]
+}
